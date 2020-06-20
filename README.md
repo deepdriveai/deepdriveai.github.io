@@ -10,9 +10,9 @@ At Deepdrive, we develop robots that can help battle fires.
 </div>
 
 
-<video width="320" height="240" controls>
-  <source src="video_30.mov" type="video/mov">
-</video>
+<div align="center">
+<iframe align= "middle" width="750" height="400" src="https://www.youtube.com/embed/B70qNd8DBqo" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Contact deepdrivecanada@gmail.com for details. 
 
